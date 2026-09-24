@@ -2,148 +2,90 @@
 
 # 👋 Hola, soy Giancarlo Brañes Díaz
 
-### Ingeniería · Tecnología · Inteligencia Artificial · Derecho
+### Ingeniería Industrial × Derecho × Tecnología
 
-### Convierto procesos empresariales reales en soluciones digitales.
+### Transformo problemas empresariales en soluciones digitales integrales.
 
 📍 Lima, Perú
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giancarlo_Brañes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giancarlo-brañes-diaz-8a6b34170/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giancarlo_Brañes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINKEDIN](https://www.linkedin.com/in/giancarlo-brañes-diaz-8a6b34170/))
 [![GitHub](https://img.shields.io/badge/GitHub-GiancarloBranes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiancarloBranes)
 
 </div>
 
 ---
 
-EL LADO DERECHO DEL INGENIERO
+## 🧭 Sobre mí
 
-## 🧭 ¿Quién soy?
+Soy **Ingeniero Industrial y Abogado**, con experiencia en entornos empresariales donde los procesos, la operación, los riesgos, los costos y el cumplimiento necesitan funcionar como un solo sistema.
 
-Soy **Ingeniero Industrial**, vinculado al mundo empresarial y legal, y actualmente desarrollo soluciones tecnológicas para resolver problemas reales de operación, costos, automatización, gestión y control.
+A lo largo de mi experiencia profesional he participado en ámbitos como:
 
-Mi trabajo parte de una idea sencilla:
+- ⚡ Generación de energía
+- 🚚 Operaciones de última milla
+- 🏭 Operaciones industriales
+- 📋 Sistemas Integrados de Gestión
+- ⚠️ Gestión integral de riesgos
+- ⚖️ Riesgos legales, laborales y corporativos
+- 📊 Costos, procesos y mejora continua
+- 🤖 Automatización y transformación digital
 
-> **La tecnología genera valor cuando entiende primero el proceso que intenta mejorar.**
+Mi formación en **Ingeniería Industrial** me permitió aprender a observar una empresa desde sus procesos, recursos, indicadores, costos, productividad y controles.
 
-Por eso mi enfoque no comienza preguntando qué framework utilizar.
+El **Derecho** añadió otra dimensión: comprender las reglas, obligaciones, relaciones laborales, riesgos corporativos y consecuencias legales que acompañan cada decisión empresarial.
 
-Comienza preguntando:
+Con el tiempo entendí algo que hoy guía mi forma de trabajar:
 
-**¿Cómo funciona realmente la empresa?**
+> **Los problemas empresariales reales rara vez pertenecen a una sola disciplina.**
 
-A partir de allí conecto:
+Un problema operativo puede convertirse en un problema de costos.
 
-`Procesos` · `Datos` · `Costos` · `Reglas de negocio` · `Software` · `IA` · `Derecho`
+Una mala gestión del proceso puede generar un riesgo legal.
 
-para convertir operaciones complejas en sistemas más **medibles, trazables y escalables**.
+Una mala estructura de datos puede terminar afectando una decisión gerencial.
 
----
-
-# ⚡ Lo que construyo
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Sistemas empresariales
-
-Digitalización de operaciones reales.
-
-- Procesos productivos
-- Control operacional
-- Inventarios y trazabilidad
-- Indicadores
-- Gestión de equipos
-- Flujos de aprobación
-- Arquitecturas empresariales
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Automatización
-
-Reducción de trabajo manual y repetitivo.
-
-- Automatización de procesos
-- Integraciones entre sistemas
-- APIs
-- RPA
-- Digitalización de formularios
-- Flujos de información
-- Sistemas legacy
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Inteligencia Artificial
-
-IA aplicada a problemas empresariales.
-
-- LLMs
-- Agentes de IA
-- MCP
-- Automatización inteligente
-- Desarrollo asistido por IA
-- Análisis de información
-- Experimentación tecnológica
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚖️ Derecho + Tecnología
-
-Tecnología aplicada a gestión preventiva.
-
-- Derecho empresarial
-- Compliance
-- Gestión de riesgos
-- Procesos laborales
-- Prevención
-- LegalTech
-- Automatización documental
-
-</td>
-</tr>
-</table>
+Y una buena solución tecnológica puede fracasar si no comprende cómo funciona realmente la organización.
 
 ---
 
-# 🔄 Cómo pienso una solución
+# 🧩 Mi enfoque
+
+Cuando analizo un problema, intento verlo de forma integral.
 
 ```text
                     PROBLEMA EMPRESARIAL
                             │
                             ▼
-                  ┌───────────────────┐
-                  │ Entender el proceso│
-                  └─────────┬─────────┘
+                  ENTENDER LA OPERACIÓN
                             │
-           ┌────────────────┼────────────────┐
-           ▼                ▼                ▼
-      Ingeniería          Costos          Derecho
-           │                │                │
-           └────────────────┼────────────────┘
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+      Procesos           Costos            Personas
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                         RIESGOS
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+    Operacionales        Legales         Corporativos
+          │                 │                 │
+          └─────────────────┼─────────────────┘
                             ▼
                   REGLAS DEL NEGOCIO
                             │
                             ▼
-                     ARQUITECTURA
+                 DISEÑO DE LA SOLUCIÓN
                             │
-               ┌────────────┼────────────┐
-               ▼            ▼            ▼
-           Software       Datos        Automatización
-               │            │            │
-               └────────────┼────────────┘
+       ┌────────────────────┼────────────────────┐
+       ▼                    ▼                    ▼
+ Automatización         Software              Datos
+       │                    │                    │
+       └────────────────────┼────────────────────┘
                             ▼
-                   INTELIGENCIA ARTIFICIAL
+                  INTELIGENCIA ARTIFICIAL
                             │
                             ▼
-                    SOLUCIÓN EMPRESARIAL
+                   SOLUCIÓN INTEGRAL
