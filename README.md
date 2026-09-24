@@ -11,6 +11,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giancarlo_Brañes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giancarlo-brañes-diaz-8a6b34170/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-GiancarloBranes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiancarloBranes)
 
 </div>
